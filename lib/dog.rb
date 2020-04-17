@@ -1,5 +1,5 @@
 Class Dog
-  fido
+  fido = 
   snoopy
   lassie
 end
